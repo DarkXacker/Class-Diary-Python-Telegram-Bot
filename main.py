@@ -1,7 +1,7 @@
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types import ReplyKeyboardMarkup, ReplyKeyboardRemove, KeyboardButton
 
-API_TOKEN = 'Bot token here'
+API_TOKEN = '5289108531:AAEuoQcWWcWRK6YXG9nH_L0Xg9kA4qS4Lsg'
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
